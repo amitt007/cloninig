@@ -1,0 +1,121 @@
+a{
+    color: #11999E;
+}
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: Georgia, Times, "Times New Roman", serif;
+font-size: 1.25rem;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+   
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+h1 {
+  margin: 50px auto 0px;
+  font-family: "Sacramento", cursive;
+  font-size: 90px;
+  margin-bottom: 0;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2 {
+  font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  margin: 30px 0px 30px;
+  color: #66BFBF;
+  
+}
+
+h3{
+    color: #11999E;
+}
+hr{
+    margin: 100px auto 100px auto;
+    
+    color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 0.5rem;
+}
+
+.img-html{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.img-css{
+    width: 15%;
+    float: right;
+    margin-left: 30px;}
+p {
+  margin: auto;
+  width: 30%;
+}
+.profile-pic{
+    width: 10%;
+}
+.profile{
+    margin: 100px auto 100px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+}
+.skills{
+    margin-bottom: 100px;
+}
+.top-container {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 50px;
+  line-height: 2;
+}
+.top-cloud {
+  position: absolute;
+  top: 20px;
+  right: 200px;
+}
+.bottom-cloud{
+    
+    position: absolute;
+}
+.mountain {
+  margin-bottom: 0;
+}
+.bottom-container{
+    margin: 50px 0 0 0;
+    background-color: #65BFBF;
+    padding: 50px 0 20px;
+   
+}
+.footer-link{
+    margin: 30px 30px 30px 30px;
+}
